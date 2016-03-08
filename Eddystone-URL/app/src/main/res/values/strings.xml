@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Eddystone-URL</string>
+    <string name="transmitting">Eddystone-URL transmitting</string>
 </resources>
